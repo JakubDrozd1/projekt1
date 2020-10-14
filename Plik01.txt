@@ -10,4 +10,8 @@ Zmiana11
 Zmiana12
 Zmiana13
 Zmiana14
+HEAD
 naprawa błędów
+Dodano es
+Dodano grafike
+es
