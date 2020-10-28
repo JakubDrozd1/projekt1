@@ -15,5 +15,11 @@ naprawa błędów
 Dodano es
 Dodano grafike
 es
+<<<<<<< HEAD
 Zmiana15
 Zmiana16
+=======
+sddsadasdas
+
+Zmiana15
+>>>>>>> origin/master
